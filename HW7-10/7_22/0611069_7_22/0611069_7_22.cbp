@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="0611069_7_22" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/0611069_7_22" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/0611069_7_22" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="P7-01.h" />
+		<Unit filename="P7-02.h" />
+		<Unit filename="P7-03.h" />
+		<Unit filename="P7-04.h" />
+		<Unit filename="P7-05.h" />
+		<Unit filename="P7-06.h" />
+		<Unit filename="P7-07.h" />
+		<Unit filename="P7-08.h" />
+		<Unit filename="P7-09.h" />
+		<Unit filename="P7-10.h" />
+		<Unit filename="P7-11.h" />
+		<Unit filename="P7-12.h" />
+		<Unit filename="P7-13.h" />
+		<Unit filename="P7-14.h" />
+		<Unit filename="P7-15.h" />
+		<Unit filename="P7-BST-ADT.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
