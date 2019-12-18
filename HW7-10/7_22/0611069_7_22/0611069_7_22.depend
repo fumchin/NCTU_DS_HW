@@ -1,10 +1,19 @@
 # depslib dependency file v1.0
-1576417348 source:c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\7_22\0611069_7_22\main.cpp
+1576551531 source:c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\7_22\0611069_7_22\main.cpp
 	<iostream>
 	<fstream>
 	<string>
 	<stdio.h>
 	"P7-BST-ADT.h"
 
-1576216861 c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\7_22\0611069_7_22\p7-bst-adt.h
+1576551531 c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\7_22\0611069_7_22\p7-bst-adt.h
+
+1576674116 source:c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\7_22\0611069_7_22\0611069_7_22.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	"0611069_7_22.h"
+
+1576673736 c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\7_22\0611069_7_22\0611069_7_22.h
 

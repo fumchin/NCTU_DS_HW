@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1576671239 source:c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\9_30\0611069_9_30\main.cpp
+	<stdio.h>
+	<iostream>
+	<time.h>
+	<iomanip>
+	"P9-heap.h"
+
+1576216861 c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\9_30\0611069_9_30\p9-heap.h
+
+1576672465 source:c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\9_30\0611069_9_30\0611069_9_30.cpp
+	<stdio.h>
+	<iostream>
+	<time.h>
+	<iomanip>
+	"0611069_9_30.h"
+
+1576672465 c:\users\fumchin\desktop\third_semester\data_structure\hw\hw7-10\9_30\0611069_9_30\0611069_9_30.h
+	<math.h>
+

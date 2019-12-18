@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include <stdio.h>
-#include "P7-BST-ADT.h"
+#include "0611069_7_22.h"
 using namespace std;
 typedef struct{
     string name;
@@ -137,6 +137,7 @@ void operate(BST_TREE* tree,ifstream &infile){
         }
     cout<<"================================="<<endl;
     }
+    BST_Destroy(tree);
 }
 
 int main()

@@ -1,5 +1,5 @@
 //1. fist construct binary tree layer by layer and input at L.162
-//2.construct preorder threaded binary tree
+//2. construct preorder threaded binary tree
 //3. traverse by threaded
 
 #include <iostream>
@@ -124,7 +124,7 @@ void ThreadPreorder(NODE* root){
 }
 
 void initialize(BT* tree){
-    string str="ABCKDJLLDGHIJK";
+    string str="ACEBD";
     LevelOrderConstruct(tree,str);
     //cout<<tree->root->left->c<<endl;
 }
